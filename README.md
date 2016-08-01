@@ -11,3 +11,4 @@ cd MailAccountManager;
 chmod +x ./install;
 
 ./install;
+
