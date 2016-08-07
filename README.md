@@ -1,4 +1,4 @@
-Video: https://www.youtube.com/watch?v=0QiXe4B7WMc
+Video: https://youtu.be/w1rlpiOV7zk
 
 cPanel account actions use the new WHM mail suspend features, e-mail account actions call the cPanel mail API commands through json-uapi.
 
