@@ -13,10 +13,6 @@ https://www.youtube.com/watch?v=-uoa6hhKxgQ
 
 - cPanel account actions use the new WHM mail suspend features, e-mail account actions call the cPanel mail API commands through json-uapi.
 
-### Installation:
-
-yum localinstall  https://github.com/cpanelsky/MailAccountManager/raw/master/MailAccountManager-0.01-0.01.x86_64.rpm
-
 ### Manual Installation:
 
 git clone https://github.com/cpanelsky/MailAccountManager.git
