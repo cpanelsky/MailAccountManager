@@ -16,3 +16,9 @@ https://www.youtube.com/watch?v=-uoa6hhKxgQ
 ### Installation:
 
 yum localinstall  https://github.com/cpanelsky/MailAccountManager/raw/master/MailAccountManager-0.01-0.01.x86_64.rpm
+
+### Manual Installation:
+
+git clone https://github.com/cpanelsky/MailAccountManager.git
+cd MailAccountManager/rpmbuild/SOURCES/MailAccountManager-0.01
+./installer 
