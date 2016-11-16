@@ -20,5 +20,7 @@ yum localinstall  https://github.com/cpanelsky/MailAccountManager/raw/master/Mai
 ### Manual Installation:
 
 git clone https://github.com/cpanelsky/MailAccountManager.git
+
 cd MailAccountManager/rpmbuild/SOURCES/MailAccountManager-0.01
+
 ./installer 
