@@ -1,4 +1,4 @@
-#!/usr/local/cpanel/3rdparty/perl/522/bin/perl
+#!/usr/local/cpanel/3rdparty/bin/perl
 
 use strict;
 use Cpanel::App                ();
